@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwujiehutong_home=self.webpackChunkwujiehutong_home||[]).push([[101],{1125:s=>{s.exports=JSON.parse('{"title":"JAVA\u57fa\u7840","slug":"basics","permalink":"/docs/basics","navigation":{"previous":{"title":"intro","permalink":"/docs/"},"next":{"title":"\u6570\u636e\u5e93\u6982\u8ff0","permalink":"/docs/basics/mysql/mysql-intro"}}}')}}]);

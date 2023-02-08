@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwujiehutong_home=self.webpackChunkwujiehutong_home||[]).push([[6788],{4252:e=>{e.exports=JSON.parse('{"label":"k8s","permalink":"/blog/tags/k-8-s","allTagsPath":"/blog/tags","count":1}')}}]);

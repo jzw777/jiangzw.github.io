@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwujiehutong_home=self.webpackChunkwujiehutong_home||[]).push([[2115],{6826:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/k-8-s","page":1,"postsPerPage":12,"totalPages":1,"totalCount":1,"blogDescription":"A Docusaurus powered blog!","blogTitle":"Blog"}')}}]);

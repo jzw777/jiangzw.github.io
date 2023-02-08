@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwujiehutong_home=self.webpackChunkwujiehutong_home||[]).push([[6536],{3069:e=>{e.exports=JSON.parse('{"label":"\u7b97\u6cd5","permalink":"/blog/tags/\u7b97\u6cd5","allTagsPath":"/blog/tags","count":1}')}}]);

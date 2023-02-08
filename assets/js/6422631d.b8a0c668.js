@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwujiehutong_home=self.webpackChunkwujiehutong_home||[]).push([[7510],{9484:e=>{e.exports=JSON.parse('{"label":"maven","permalink":"/blog/tags/maven","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwujiehutong_home=self.webpackChunkwujiehutong_home||[]).push([[4121],{8070:e=>{e.exports=JSON.parse('[{"label":"SQL","permalink":"/docs/tags/sql","count":6},{"label":"\u6570\u636e\u5e93","permalink":"/docs/tags/\u6570\u636e\u5e93","count":1}]')}}]);
