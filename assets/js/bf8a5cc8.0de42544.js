@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwujiehutong_home=self.webpackChunkwujiehutong_home||[]).push([[3745],{7228:e=>{e.exports=JSON.parse('{"label":"intercept","permalink":"/blog/tags/intercept","allTagsPath":"/blog/tags","count":1}')}}]);
